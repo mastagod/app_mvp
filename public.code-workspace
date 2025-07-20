@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "public"
+		},
+		{
+			"path": "src"
+		},
+		{
+			"path": "test-app"
+		},
+		{
+			"path": ".next"
+		},
+		{
+			"path": "node_modules"
+		},
+		{
+			"path": "prisma"
+		}
+	]
+}
